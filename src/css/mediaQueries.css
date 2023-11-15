@@ -1,0 +1,15 @@
+@import url("../css/header.css");
+
+@media (max-width:991px){
+
+    html{
+        font-size: 55%;
+        overflow-x: hidden;
+        scroll-padding-top: 5.5rem;
+        scroll-behavior: smooth;
+    }
+
+    header{
+        padding: 1rem 2rem;
+    }
+}
